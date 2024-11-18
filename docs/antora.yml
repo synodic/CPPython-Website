@@ -1,0 +1,5 @@
+name: porringer-website
+title: Porringer Documentation
+start_page: porringer-website::index.adoc
+nav:
+- modules/ROOT/nav.adoc
