@@ -21,5 +21,5 @@ jobs:
         contents: read
         pages: write
         id-token: write
-    if: github.repository_owner == 'Synodic-Software'
-    uses: synodic-software/.github/.github/workflows/website-publish-pages.yml@stable
+    if: github.repository_owner == 'synodic'
+    uses: synodic/.github/.github/workflows/website-publish-pages.yml@stable

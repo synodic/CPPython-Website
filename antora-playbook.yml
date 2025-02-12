@@ -9,7 +9,7 @@ content:
   - url: .
     start_path: docs
     version: true
-  - url: https://github.com/Synodic-Software/CPPython.git
+  - url: https://github.com/synodic/CPPython.git
     start_path: docs
     version: true
 ui: 
